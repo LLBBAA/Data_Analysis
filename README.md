@@ -196,15 +196,11 @@ GROUP BY start_station_name
 ORDER BY casuals DESC
 LIMIT 20
 ```
-## Vizualising Data
+## Visualizing Data
 All visualizations were created in [Tableau](https://public.tableau.com/app/profile/liudmila3799).
 
-
- 
-
+## Conclusion
 
 
 
-Conclusion
-
-Recommendations
+## Recommendations
