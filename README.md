@@ -197,13 +197,9 @@ ORDER BY casuals DESC
 LIMIT 20
 ```
 ## Vizualising Data
-All visualizations were created in Tableau.
+All visualizations were created in [Tableau](https://public.tableau.com/app/profile/liudmila3799).
 
-**Average trips for members and casual riders**
-![image](https://drive.google.com/uc?export=view&id=1913oZeBZPBNiUuk8gu3ZSbLBA2l_VQtG)
-![Avg Trip Duration](https://drive.google.com/file/d/1Pp6ZoZoYvqYmhKPISyznhc7LPX9SJ2Me/view?usp=sharing)
 
-!(https://myoctocat.com/assets/images/base-octocat.svg)
  
 
 
