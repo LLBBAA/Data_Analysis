@@ -18,14 +18,13 @@ Public data provided by Motivate International Inc.
 License: [Data License Agreement | Divvy Bikes](https://ride.divvybikes.com/data-license-agreement).
 
 SQLiteStudio was using for data merging, cleaning, and analyzing. 
-All SQL code for data cleaning and VIEW creations can be found [here](https://github.com/LLBBAA/Data_Analysis/blob/main/SQL_Code.sql)
+SQL code can be found [here](https://github.com/LLBBAA/Data_Analysis/blob/main/SQL_Code.sql)
 
 ## Processing Data
 
 Datasets of 12 months were mergered in one file. 
 Cleaning data by checking and removing duplicates, Nulls and blanks.
-New column with alculated trip duration was added.
-Also, exctracted day and month for separate columns.
+New columns with calculated trip duration, extracted day and month were added.
 
 ## Analyzing Data
 To define differences of using bikes by members and casual riders was analyzed average trip duration, bike usage during these 12 months, also checked biked usage from Monday to Sunday, checked starting hours for trips, and top start stations.
