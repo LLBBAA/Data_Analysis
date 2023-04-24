@@ -34,7 +34,7 @@ Trends and relationships are in [Google Slides presentation](https://docs.google
 Average trip duration is longer for casual users, and they also prefer to use bike services during the weekends. 
 Members start trips at 6-8am and at 4-7pm that could be commute hours bike using.
 Top ranking start stations is looking different for members and casual riders.
-Season using is the same for both types of riders
+Season using is the same for both types of riders.
 
 All visualizations were created in [Tableau](https://public.tableau.com/app/profile/liudmila3799).
 
