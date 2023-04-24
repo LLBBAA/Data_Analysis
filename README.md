@@ -5,7 +5,7 @@
 
 Cyclistic is a bike-share company based in Chicago with two types of customers. Customers who purchase single-ride or full-day passes are known as casual riders, 
 while those who purchase annual memberships are known as members. The director of marketing believes the company’s future success depends on maximizing the number
-of annual memberships, and has tasked us with discovering insights the differences of using bikes by Cyclistic members and casual riders. From these insights, your 
+of annual memberships, and has tasked us with discovering insights the differences of using bikes by Cyclistic members and casual riders. From these insights, the 
 team will design a new marketing strategy to convert casual riders into annual members.
 
 ## Objective
