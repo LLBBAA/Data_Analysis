@@ -28,7 +28,7 @@ New columns with calculated trip duration, extracted day and month were added.
 
 ## Analyzing Data
 To define differences of using bikes by members and casual riders was analyzed average trip duration, bike usage during these 12 months, also checked biked usage from Monday to Sunday, checked starting hours for trips, and top start stations.
-Trends and relationships are in [Google Slides presentation](https://docs.google.com/presentation/d/1sL4CvfZugpeS0J8cl1FtaNDjfC1KakbJV_MqCBYc2hc/edit#slide=id.p).
+Trends and relationships are in [presentation](https://github.com/LLBBAA/Data_Analysis/blob/main/Bicycle%20sharing%20service.pdf).
 
 ## Sharing Data
 Average trip duration is longer for casual users, and they also prefer to use bike services during the weekends. 
@@ -41,4 +41,4 @@ All visualizations were created in [Tableau](https://public.tableau.com/app/prof
 ## Acting
 Adding more advertisement around top stations for casual riders, offer discounts at local stores close to this stations, offer membership options for longer trips.
 
-Also, full analysis with conclusion and recommendations is shared in [Google Slides presentation](https://docs.google.com/presentation/d/1sL4CvfZugpeS0J8cl1FtaNDjfC1KakbJV_MqCBYc2hc/edit#slide=id.p).
+Also, full analysis with conclusion and recommendations is shared in [presentation](https://github.com/LLBBAA/Data_Analysis/blob/main/Bicycle%20sharing%20service.pdf).
